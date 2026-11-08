@@ -34,11 +34,21 @@
 | Assignment 2 | 全连接网络 / BatchNorm / Dropout / CNN | ⬜ |
 | Assignment 3 | RNN / Transformer / GAN / 自监督 | ⬜ |
 
+## 课件翻译
+
+课程 PPT 的中文翻译单独放在 [`slides-zh/`](slides-zh/README.md)，按讲次一个子文件夹，与笔记分开管理。
+
+- 进度表与目录约定：[slides-zh/README.md](slides-zh/README.md)
+- 中英术语对照表：[slides-zh/glossary.md](slides-zh/glossary.md)
+
+> 课件原文版权归 Stanford University 所有，译文仅用于个人学习，不作商用。
+
 ## 目录结构
 
 ```
 cs231n-learning/
 ├── notes/         # 逐讲笔记（Markdown）
+├── slides-zh/     # 课程 PPT 中文翻译（按讲次分文件夹）
 ├── assignments/   # 作业代码实现
 ├── assets/        # 笔记里引用的图片、曲线
 └── README.md
