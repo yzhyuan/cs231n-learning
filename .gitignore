@@ -1,0 +1,40 @@
+# ---- 数据集（体积大，绝对不要提交）----
+cs231n/datasets/
+datasets/
+cifar-10-batches-py/
+*.h5
+*.pkl
+*.npz
+*.tar.gz
+*.zip
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- 训练产物 ----
+checkpoints/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
