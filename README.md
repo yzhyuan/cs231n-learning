@@ -41,6 +41,8 @@
 - 进度表与目录约定：[slides-zh/README.md](slides-zh/README.md)
 - 中英术语对照表：[slides-zh/glossary.md](slides-zh/glossary.md)
 
+> **⚠️ 所有课件译文均由 AI 翻译生成**，未经人工逐句校对，仅供学习参考，请以英文原文为准。
+>
 > 课件原文版权归 Stanford University 所有，译文仅用于个人学习，不作商用。
 
 ## 目录结构
